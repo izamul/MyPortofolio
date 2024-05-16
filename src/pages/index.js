@@ -59,7 +59,7 @@ export default function Home() {
                 '
                   download={true}
                 >
-                  Unduh CV <LinkArrow className={'w-2 ml-2'} />
+                  Unduh CV
                 </Link>
                 <Link
                   href='mailto:fikriizamul@gmail.com'
