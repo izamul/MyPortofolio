@@ -49,7 +49,7 @@ export default function Home() {
               </p>
               <div className='flex items-center space-x-4 self-start mt-2 lg:self-center'>
                 <Link
-                  href='/CV.Volonterio.Gonzalo.pdf'
+                  href='/CVIzamulFikri.pdf'
                   target={'_blank'}
                   aria-label='My Cv'
                   className='flex items-center bg-dark text-light p-2.5 px-6
