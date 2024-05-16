@@ -42,8 +42,7 @@ export default function Home() {
               Selamat datang di portofolio saya! 
               Saya memiliki minat yang besar dalam pengembangan aplikasi mobile, 
               baik menggunakan native maupun cross-platform seperti Flutter. 
-              Selain itu, saya juga mahir dalam pengembangan web menggunakan Laravel, ExpresJS, dan juga saya sedang belajar tentang Machine Learning. Pengalaman saya sebagai network engineer 
-              juga memungkinkan saya untuk menyediakan layanan internet. 
+              Selain itu, saya juga mahir dalam pengembangan web menggunakan Laravel, ExpressJS, Flask, dan juga saya sedang belajar tentang Machine Learning. Saya juga memiliki pengalaman sebagai Network Engineer sejak di bangku SMK. 
               Mari kita jelajahi beberapa proyek yang telah saya selesaikan.
               </p>
               <div className='flex items-center space-x-4 self-start mt-2 lg:self-center'>
