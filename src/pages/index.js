@@ -41,10 +41,9 @@ export default function Home() {
               <p className='my-4 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify  whitespace-normal'>
               Selamat datang di portofolio saya! 
               Saya memiliki minat yang besar dalam pengembangan aplikasi mobile, 
-              baik menggunakan teknologi native maupun cross-platform seperti Flutter. 
-              Selain itu, saya juga mahir dalam pengembangan web menggunakan Laravel dan 
-              mengatur REST API menggunakan Flask. Pengalaman saya sebagai network engineer 
-              juga memungkinkan saya untuk menyediakan layanan internet yang handal. 
+              baik menggunakan native maupun cross-platform seperti Flutter. 
+              Selain itu, saya juga mahir dalam pengembangan web menggunakan Laravel, ExpresJS, dan juga saya sedang belajar tentang Machine Learning. Pengalaman saya sebagai network engineer 
+              juga memungkinkan saya untuk menyediakan layanan internet. 
               Mari kita jelajahi beberapa proyek yang telah saya selesaikan.
               </p>
               <div className='flex items-center space-x-4 self-start mt-2 lg:self-center'>
