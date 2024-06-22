@@ -7,7 +7,6 @@ import Link from 'next/link';
 import React from 'react';
 import project1 from '../../public/images/projects/1.png';
 import project2 from '../../public/images/projects/2.png';
-import project3 from '../../public/images/projects/3.png';
 import project4 from '../../public/images/projects/4.png';
 import project5 from '../../public/images/projects/5.png';
 import project6 from '../../public/images/projects/6.png';
@@ -106,7 +105,7 @@ const projects = () => {
                 img={project4}
                 summary='Aplikasi mobile untuk membantu mengatasi penyebaran berita hoax dengan memanfaatkan machine learning'
                 github='https://github.com/izamul/Factha_hoax_article_detection'
-                type='Mobile App Kotlin'
+                type='Mobile App Kotlin, Flask, Docker, Google Cloud'
               />
             </div>
 
@@ -129,16 +128,7 @@ const projects = () => {
                 type='Laravel'
               />
             </div>
-            <div className='col-span-12 sm:col-span-12 text-justify whitespace-normal '>
-              <FeatureProject
-                title='Penginapan APP'
-                img={project3}
-                summary='Semi Super App untuk membantu pengelolaan dan pemesanan penginapan sekitar malang (design memiliki hak cipta)'
-                github=''
-                type='Mobile App Native Java'
-              />
-            </div>
-            
+
             <div className='col-span-12 sm:col-span-12 text-justify whitespace-normal '>
               <FeatureProject
                 title='Redesign Website SPMB Polinema'
